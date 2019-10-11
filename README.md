@@ -1020,6 +1020,10 @@ IEEE Trans. Emerging Topics in Computing, 2018.
 - <a name="Lee19arxiv"></a>Lee, S., Kim, H., Kim, H.J.,  
 *[Edge Detection for Event Cameras using Intra-pixel-area Events](https://arxiv.org/pdf/1907.07469)*,  
 arXiv:1907.07469, 2019.
+- Khan, N.and Martini, M.,
+*[Bandwidth Modeling of Silicon Retinas for Next Generation Visual Sensor Networks](https://doi.org/10.3390/s19081751)
+Sensors, 19(8), 2019, p. 1751.
+
 
 
 <br><br>
