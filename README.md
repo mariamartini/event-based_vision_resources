@@ -2093,6 +2093,9 @@ IEEE Signal Process. Lett. (SPL), 29:1779-1783, 2022.
 - <a name="Schiopu22sensors"></a>Schiopu, I., Bilcu, R. C.,  
 *[Low-Complexity Lossless Coding of Asynchronous Event Sequences for Low-Power Chip Integration](https://doi.org/10.3390/s222410014)*,  
 Sensors, 2022.
+- <a name="Martini22access"></a>Martini, M. G., Adhuran, J., Khan, N., 
+*[Lossless compression of neuromorphic vision sensor data based on point cloud representation](https://doi.org/10.1109/ACCESS.2022.3222330)*,
+IEEE Access, 2022.
 
 
 <a name="control"></a>
